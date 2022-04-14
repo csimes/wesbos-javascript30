@@ -21,6 +21,7 @@ html {
   flex: 1 1 1rem;
   flex-flow: row wrap;
   min-height: 100vh;
+  align-content: center;
   align-items: center;
   justify-content: center;
 }
